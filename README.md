@@ -1,5 +1,6 @@
 # SpanishDuokanKindle4
 Spanish Translation for Doukan Kindle 4
+
 ¿En qué versión de Doukan ha sido probada esta traducción?
 Esta traducción ha sido probada en la última versión de Doukan del 2015 para la Kindle 4
 
