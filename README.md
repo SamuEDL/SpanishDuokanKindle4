@@ -17,10 +17,10 @@ Haz click derecho en el siguiente enlace y presiona en `Guardar enlace como`:
 https://github.com/SamuEDL/SpanishDuokanKindle4/raw/main/Traducci%C3%B3n/Spanish.txt
 
 ## Capturas
-<img src="https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/1.jpg?raw=true" width="48">
-![Imagen](https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/1.jpg?raw=true width="48")
-![Imagen](https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/2.jpg?raw=true width="48")
-![Imagen](https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/3.jpg?raw=true width="48")
-![Imagen](https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/4.jpg?raw=true width="48")
-![Imagen](https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/5.jpg?raw=true width="48")
-![Imagen](https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/6.jpg?raw=true width="48")
+<img src="https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/1.jpg?raw=true" width="60">
+<img src="https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/2.jpg?raw=true" width="60">
+<img src="https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/3.jpg?raw=true" width="60">
+<img src="https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/4.jpg?raw=true" width="60">
+<img src="https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/5.jpg?raw=true" width="60">
+<img src="https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/6.jpg?raw=true" width="60">
+
