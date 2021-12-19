@@ -16,3 +16,7 @@ No, actualmente es un trabajo en proceso por lo que quedan aún cosas sin traduc
 Haz click derecho en el siguiente enlace y presiona en `Guardar enlace como`:
 https://github.com/SamuEDL/SpanishDuokanKindle4/raw/main/Traducci%C3%B3n/Spanish.txt
 
+## Capturas
+![Imagen](https://github.com/SamuEDL/SpanishDuokanKindle4/blob/main/Imagenes/1.jpg?raw=true)
+
+ 
